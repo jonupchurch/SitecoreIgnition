@@ -302,6 +302,7 @@
     <Compile Include="Components\CustomEditor\AbstractConfigurationData.cs" />
     <Compile Include="Components\CustomEditor\CustomEditorController.cs" />
     <Compile Include="Components\CustomEditor\IConfigurationData.cs" />
+    <Compile Include="Components\CustomEditor\IReferences.cs" />
     <Compile Include="Components\CustomEditor\MockConfigurationData.cs" />
     <Compile Include="Components\Frame\FrameAgent.cs" />
     <Compile Include="Components\Frame\FrameController.cs" />
