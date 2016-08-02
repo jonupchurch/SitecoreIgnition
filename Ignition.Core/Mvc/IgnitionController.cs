@@ -75,7 +75,7 @@ namespace Ignition.Core.Mvc
         }
         #endregion
         #region Json Overloads
-        protected JsonResult Json<TAgent, TViewModel,TRequestData>(Guid itemId, TRequestData agentParameters)
+        protected JsonResult Json<TAgent,TViewModel,TRequestData>(Guid itemId, TRequestData agentParameters)
             where TAgent : Agent<TViewModel>
             where TViewModel : BaseViewModel, new()
         {
