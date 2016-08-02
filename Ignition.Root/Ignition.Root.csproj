@@ -190,6 +190,11 @@
     <Compile Include="App_Start\InitializeDependencyResolver.cs" />
     <Compile Include="App_Start\InitializeViewEngines.cs" />
     <Compile Include="App_Start\InitializeRoutes.cs" />
+    <Compile Include="Components\CustomEditor\AbstractConfigurationData.cs" />
+    <Compile Include="Components\CustomEditor\CustomEditorController.cs" />
+    <Compile Include="Components\CustomEditor\IConfigurationData.cs" />
+    <Compile Include="Components\CustomEditor\IReferences.cs" />
+    <Compile Include="Components\CustomEditor\MockConfigurationData.cs" />
     <Compile Include="Constants.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

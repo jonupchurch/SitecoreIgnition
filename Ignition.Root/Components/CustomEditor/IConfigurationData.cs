@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ignition.Sc.Components.CustomEditor
+namespace Ignition.Root.Components.CustomEditor
 {
     public interface IConfigurationData
     {

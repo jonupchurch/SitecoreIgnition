@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using Ignition.Core.Models.BaseModels;
 
-namespace Ignition.Sc.Components.CustomEditor
+namespace Ignition.Root.Components.CustomEditor
 {
     public interface IReferences
     {

@@ -9,7 +9,7 @@ using Sitecore.Data.Items;
 using Sitecore.Links;
 using Sitecore.Sites;
 
-namespace Ignition.Sc.Components.CustomEditor
+namespace Ignition.Root.Components.CustomEditor
 {
     public abstract class AbstractConfigurationData : BaseViewModel, IConfigurationData
     {

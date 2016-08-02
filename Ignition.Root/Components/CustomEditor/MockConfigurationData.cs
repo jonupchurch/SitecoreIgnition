@@ -1,8 +1,7 @@
 ﻿using System;
 using Glass.Mapper.Sc;
-using Ignition.Core.Mvc;
 
-namespace Ignition.Sc.Components.CustomEditor
+namespace Ignition.Root.Components.CustomEditor
 {
     public class MockConfigurationData : AbstractConfigurationData
     {
