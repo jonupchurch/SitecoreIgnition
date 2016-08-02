@@ -6,6 +6,6 @@ namespace Ignition.Root.Components.CustomEditor
     public interface IReferences
     {
         IEnumerable<IModelBase> InboundReferences { get; }
-        IEnumerable<IControllerRendering> PresentationItemsAndDatasources { get; set; }
+        IEnumerable<ControllerRendering> PresentationItemsAndDatasources { get; set; }
     }
 }

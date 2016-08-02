@@ -113,7 +113,6 @@
     <Compile Include="HtmlHelpers\GetDynamicKeyAllowedRenderings.cs" />
     <Compile Include="HtmlHelpers\GetDynamicPlaceholderChromeData.cs" />
     <Compile Include="HtmlHelpers\GlassHelper.cs" />
-    <Compile Include="Models\BaseModels\IControllerRendering.cs" />
     <Compile Include="Models\BaseModels\IModelBase.cs" />
     <Compile Include="Models\BaseModels\IModelBaseWithMetadata.cs" />
     <Compile Include="Models\BaseModels\INeedsChildren.cs" />

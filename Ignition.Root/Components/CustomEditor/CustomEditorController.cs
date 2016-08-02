@@ -14,7 +14,7 @@ namespace Ignition.Root.Components.CustomEditor
         [HttpGet]
         public JsonResult References(Guid itemId)
         {
-            return null;
+            return Json(new MockReferenceData(Sitecore.Context.Item));
         }
     }
 }
